@@ -1,4 +1,4 @@
-module github.com/hectane/go-acl
+module github.com/thesubtlety/go-acl
 
 go 1.12
 
